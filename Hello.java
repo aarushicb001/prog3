@@ -1,6 +1,6 @@
 package com.example;
 public class Hello{
   public static void main(String args[]){
-    System.out.println("Hello world, using Github actions");
+    System.out.println("Hello world, using Github actions. Making a change");
   }
 }
